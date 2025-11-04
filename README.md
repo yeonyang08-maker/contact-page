@@ -75,12 +75,8 @@
     💚 LINE
   </a>
 
-  <a class="button whatsapp" href="https://wa.me/821012345678" target="_blank">
+  <a class="button whatsapp" href="[https://wa.me/821012345678](https://wa.link/t2xwgj)" target="_blank">
     📱 WhatsApp (KR)
-  </a>
-
-  <a class="button whatsapp" href="https://wa.me/66812345678" target="_blank">
-    📱 WhatsApp (TH)
   </a>
 
   <a class="button instagram" href="https://www.instagram.com/diver_lala/" target="_blank">
