@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>🐠Dive In with Lala🤿</title>
+  <title>Dive In with Lala🐠🤿</title>
   <style>
     body {
       font-family: 'Inter', 'Segoe UI', sans-serif;
@@ -11,9 +11,9 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      min-height: 100vh; /* height 대신 min-height로 변경 */
+      min-height: 100vh;
       margin: 0;
-      padding: 40px 20px; /* 모바일에서도 여백 확보 */
+      padding: 40px 20px;
       color: #111;
       box-sizing: border-box;
     }
@@ -30,9 +30,10 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 250px;
+      width: 100%;
+      max-width: 250px;
       padding: 14px 0;
-      margin: 8px 0;
+      margin: 8px auto; /* 가운데 정렬 */
       border-radius: 12px;
       font-size: 16px;
       font-weight: 600;
@@ -64,7 +65,7 @@
   </style>
 </head>
 <body>
-  <h1>🐠Dive In with Lala🤿</h1>
+  <h1>Dive In with Lala🐠🤿</h1>
 
   <a class="button kakao" href="https://open.kakao.com/me/diverlala" target="_blank">
     💬 KakaoTalk
@@ -75,7 +76,11 @@
   </a>
 
   <a class="button whatsapp" href="https://wa.me/821012345678" target="_blank">
-    📱 WhatsApp
+    📱 WhatsApp (KR)
+  </a>
+
+  <a class="button whatsapp" href="https://wa.me/66812345678" target="_blank">
+    📱 WhatsApp (TH)
   </a>
 
   <a class="button instagram" href="https://www.instagram.com/diver_lala/" target="_blank">
@@ -88,4 +93,4 @@
 
   <footer>© 2025 LALA KIM 🐬</footer>
 </body>
-</html>
+
