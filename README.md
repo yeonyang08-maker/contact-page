@@ -55,4 +55,44 @@
       height: 22px;
       width: 22px;
       margin-right: 10px;
-      vertic
+      vertical-align: middle;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 25px;
+      font-size: 13px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <h1>Let's Dive In! 🐠</h1>
+
+  <a class="button kakao" href="https://open.kakao.com/me/diverlala" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" class="icon" alt="KakaoTalk logo">
+    Chat on KakaoTalk
+  </a>
+
+  <a class="button line" href="https://line.me/ti/p/T9-h9V2uUB" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670070.png" class="icon" alt="LINE logo">
+    Message on LINE
+  </a>
+
+  <a class="button whatsapp" href="https://wa.link/t2xwgj" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670054.png" class="icon" alt="WhatsApp logo">
+    Talk on WhatsApp
+  </a>
+
+  <a class="button instagram" href="https://www.instagram.com/diver_lala?igsh=a3Y4NTkxcDB0enAx&utm_source=qr" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" class="icon" alt="Instagram logo">
+    Connect on Instagram
+  </a>
+
+  <a class="button email" href="yeonyang08@gmail.com" target="_blank">
+    ✉️ Send an Email
+  </a>
+
+  <footer>© 2025 LALA KIM</footer>
+</body>
+</html>
