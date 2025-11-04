@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Dive In with Lala 🐠🤿</title>
+  <title>🐠Dive In with Lala🤿</title>
   <style>
     body {
       font-family: 'Inter', 'Segoe UI', sans-serif;
@@ -64,7 +64,7 @@
   </style>
 </head>
 <body>
-  <h1>Dive In with Lala 🐠🤿</h1>
+  <h1>🐠Dive In with Lala🤿</h1>
 
   <a class="button kakao" href="https://open.kakao.com/me/diverlala" target="_blank">
     💬 KakaoTalk
@@ -86,6 +86,6 @@
     ✉️ Send an Email
   </a>
 
-  <footer>© 2025 LALA KIM 🤿🐬</footer>
+  <footer>© 2025 LALA KIM 🐬</footer>
 </body>
 </html>
