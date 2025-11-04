@@ -57,14 +57,16 @@
     .instagram { background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5); }
     .email { background-color: #333; }
 
-    footer {
-      position: fixed;
-      bottom: 25px;
-      font-size: 13px;
-      color: #999;
-      text-align: center;
-      width: 100%;
-    }
+footer {
+  position: fixed;       /* 화면 하단 고정 */
+  bottom: 25px;          /* 바닥에서 거리 */
+  left: 50%;             /* 화면 중앙 기준 */
+  transform: translateX(-50%); /* 정확히 가운데 맞춤 */
+  font-size: 13px;
+  color: #999;
+  text-align: center;
+  width: auto;           /* auto로 바꾸면 글자 길이만큼 폭 */
+}
   </style>
 </head>
 <body>
